@@ -1,3 +1,6 @@
+Here are the keys, congratulations! Now to the second part!
+Decode the message on the image from the first part, good luck Ü
+
 key_r = " ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 key_b = " abcdefghijklmnopqrstuvwxyz"
 key_g = " 1234567890!?.,:;'-+"
